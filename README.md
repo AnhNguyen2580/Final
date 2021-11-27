@@ -1,6 +1,6 @@
 # Final
 <h1 align="center">
-Cosmos English - For everyone
+Cosmos-English For everyone
 </h1>
 
 <!-- TABLE OF CONTENTS -->
