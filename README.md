@@ -25,7 +25,7 @@ Cosmos English - For everyone
   </ol>
 </details>
 
-## 📝 Introduction about project
+##Introduction about project
 
 ---
 
@@ -34,10 +34,10 @@ Cosmos English - For everyone
 
 <br />
 
-### 🎯 Goal
+### Goal
 
 Cosmos English is the website that helps people cultivate speaking communication skill and pronounce as an native speaker
-### ✨ Function
+### Function
 
 
 - Contribution sentence and word by user.
@@ -47,7 +47,7 @@ Cosmos English is the website that helps people cultivate speaking communication
 - Cosmos Dictionary.
 - Irregular verb.
 
-### 💻 Technology
+### Technology
 
 - Backend, Database
 
@@ -69,17 +69,17 @@ Cosmos English is the website that helps people cultivate speaking communication
 
 ---
 
-## 🛠 start Project
+## start Project
 
-### ❗ Request Technology
+### Request Technology
 
 - [MongoDB Server](https://www.mongodb.com/)
 - [NodeJS, Npm (Node Package Manager)](https://nodejs.org/en/)
 - [Git, Github](https://git-scm.com/)
 
-### ⚙ Setting
+### Setting
 
-1. Clone project này
+1. Clone project
 
 ```
   git clone https://github.com/AnhNguyen2580/Final
@@ -108,4 +108,4 @@ Cosmos English is the website that helps people cultivate speaking communication
 
 ---
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
